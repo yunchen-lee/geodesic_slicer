@@ -4,7 +4,7 @@
 
 ## Installation
 
-Platform: Grasshopper + Python 3.8
+Platform: Grasshopper / Python 3.8
 
 ### Environment Setting
 ```
