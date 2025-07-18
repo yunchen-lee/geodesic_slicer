@@ -4,8 +4,6 @@
 
 ## Installation
 
-Platform: Grasshopper / Python 3.8
-
 ### Environment Setting
 ```
 git clone https://github.com/yunchen-lee/geodesic_slicer.git
