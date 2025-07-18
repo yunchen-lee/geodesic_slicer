@@ -19,10 +19,8 @@ pip install tqdm numpy scipy pymeshlab pyvista tetgen trimesh einops matplotlib 
 ## Usage
 
 ### Setp 0: Dataset
-
-![](figures/ref.png)
-
 Datafiles (.csv) in ./data. This model can preview in Grasshopper (./gh/0717.gh).
+![](figures/ref.png)
 
 ### Step 1: NN Optimization
 Run the following script to generate the optimized heat values. It will plot the loss and download the updated heat values as a .csv file.
