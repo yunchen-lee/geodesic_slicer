@@ -31,7 +31,7 @@ python main.py
 ```
 This neural network currently supports optimization based on two loss functions: layer uniformity and directional consistency of the gradient field.
 
-### Step 2: Visualizetion
+### Step 2: Visualization
 To view the optimized heat field, update the CSV file reference in the Grasshopper (step 2 in./gh/0717.gh). There are several ways to view the data:
 ![](figures/ref5.png)
 
