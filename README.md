@@ -41,4 +41,4 @@ To view the optimized heat field, update the CSV file reference in the Grasshopp
 + Sitzmann, V., Martel, J., Bergman, A., Lindell, D., & Wetzstein, G. (2020). Implicit neural representations with periodic activation functions. Advances in neural information processing systems, 33, 7462-7473.
 + Mitropoulou, I., Bernhard, M., & Dillenburger, B. (2022). Nonplanar 3D printing of bifurcating forms. 3D printing and additive manufacturing, 9(3), 189-202.
 + Crane, K., Weischedel, C., & Wardetzky, M. (2013). Geodesics in heat: A new approach to computing distance based on heat flow. ACM Transactions on Graphics (TOG), 32(5), 1-11.
-+ McNeel Forum. (2020, 7). Heat Method. [URL](https://discourse.mcneel.com/t/heat-method/105135)
++ McNeel Forum. (2020, 7). Heat Method. [https://discourse.mcneel.com/t/heat-method/105135](https://discourse.mcneel.com/t/heat-method/105135)
